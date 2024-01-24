@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+:root{
+    --color-dark-purple: #160F29;
+    --color-dark-cyan: #246A73;
+    --color-cyan: #368F8B;
+    --color-cream: #F3DFC1;
+    --color-dark-cream: #DDBEA8;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+  }
+.wrapper{
+    background-color:var(--color-dark-cyan);
+}
+#education{
+    background-color: var(--color-cyan);
+}
+#protrait{
+    width: 20%;
+    border-radius: 50%;
+}
