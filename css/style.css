@@ -9,9 +9,9 @@
 body {
     font-family: 'Montserrat', sans-serif;
   }
-.wrapper{
+/* .wrapper{
     background-color:var(--color-dark-cyan);
-}
+} */
 #education{
     background-color: var(--color-cyan);
 }
