@@ -5,6 +5,7 @@
     --color-cyan: #368F8B;
     --color-cream: #F3DFC1;
     --color-dark-cream: #DDBEA8;
+    --color-footer: #0D1B2A;
 }
 body {
     font-family: 'Montserrat', sans-serif;
@@ -19,3 +20,7 @@ body {
     width: 20%;
     border-radius: 50%;
 }
+footer{
+    background-color: var(--color-footer)
+}
+
