@@ -13,9 +13,7 @@ body {
 /* .wrapper{
     background-color:var(--color-dark-cyan);
 } */
-#education{
-    background-color: var(--color-cyan);
-}
+
 #protrait{
     width: 20%;
     border-radius: 50%;
@@ -24,3 +22,6 @@ footer{
     background-color: var(--color-footer)
 }
 
+.bg-gray{
+    background-color: lightgray;
+}
